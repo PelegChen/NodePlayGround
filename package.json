@@ -1,0 +1,19 @@
+{
+  "name": "nodeplayground",
+  "version": "1.0.0",
+  "description": "Node js play ground for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PelegChen/NodePlayGround.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PelegChen/NodePlayGround/issues"
+  },
+  "homepage": "https://github.com/PelegChen/NodePlayGround#readme"
+}
