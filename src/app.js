@@ -1,3 +1,10 @@
-const fs = import('fs');
-const requierFs = require('fs')
-console.log(requierFs)
+
+const http = requier('http');
+
+
+
+const server = http.createServer((request, response) => {
+    response.write('This is my response');
+    response.end();
+})
+server.listen(4000);
