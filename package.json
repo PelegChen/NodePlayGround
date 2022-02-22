@@ -4,7 +4,8 @@
   "description": "Node js play ground for learning",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "serve": "node ./src/app.js"
   },
   "type": "module",
   "repository": {
